@@ -1,2 +1,3 @@
-1) CTRL + S
-2) wyłącz i dopiero wtedy commit/push
+1) git pull 
+2) ctrl + s
+3) wyłącz i dopiero wtedy commit/push
