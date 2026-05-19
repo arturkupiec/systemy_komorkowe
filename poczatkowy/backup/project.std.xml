@@ -2322,12 +2322,20 @@
  </MultipointStudyLayout>
  <NeighborListGeneration max_neighbors="4" include_2nd_servers="true" include_3rd_servers="true" exclude_co_channel_neighbors="true" group_identifier="master group" server_selection="PowerReceived" copy_predicted_to_actual="false" remote_unit_ID="0"/>
  <TxGroups size="1">
-  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="19">
+  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="27">
    <TX_ID id="A1" active="true"/>
    <TX_ID id="A2" active="true"/>
    <TX_ID id="ABAA0001" active="true"/>
    <TX_ID id="ABAA0002" active="true"/>
    <TX_ID id="ABAA0003" active="true"/>
+   <TX_ID id="ABAB0001" active="true"/>
+   <TX_ID id="ABAC0001" active="true"/>
+   <TX_ID id="ABAC0002" active="true"/>
+   <TX_ID id="ABAC0003" active="true"/>
+   <TX_ID id="ABAD0001" active="true"/>
+   <TX_ID id="ABAD0002" active="true"/>
+   <TX_ID id="ABAD0003" active="true"/>
+   <TX_ID id="ABAD0004" active="true"/>
    <TX_ID id="B1" active="true"/>
    <TX_ID id="B2" active="true"/>
    <TX_ID id="B3" active="true"/>
