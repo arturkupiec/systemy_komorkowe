@@ -2332,15 +2332,47 @@
  </MultipointStudyLayout>
  <NeighborListGeneration max_neighbors="4" include_2nd_servers="true" include_3rd_servers="true" exclude_co_channel_neighbors="true" group_identifier="master group" server_selection="PowerReceived" copy_predicted_to_actual="false" remote_unit_ID="0"/>
  <TxGroups size="1">
-  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="8">
+  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="40">
    <TX_ID id="ABAA0001" active="true"/>
    <TX_ID id="ABAA0002" active="true"/>
    <TX_ID id="ABAA0003" active="true"/>
-   <TX_ID id="ABAB0001" active="true"/>
-   <TX_ID id="ABAB0002" active="true"/>
-   <TX_ID id="ABAB0003" active="true"/>
+   <TX_ID id="ABAB0001" active="false"/>
+   <TX_ID id="ABAB0002" active="false"/>
+   <TX_ID id="ABAB0003" active="false"/>
    <TX_ID id="ABAC0001" active="true"/>
    <TX_ID id="ABAC0003" active="true"/>
+   <TX_ID id="ABAD0001" active="false"/>
+   <TX_ID id="ABAD0002" active="false"/>
+   <TX_ID id="ABAD0003" active="false"/>
+   <TX_ID id="ABAE0002" active="false"/>
+   <TX_ID id="ABAE0003" active="false"/>
+   <TX_ID id="ABAF0001" active="true"/>
+   <TX_ID id="ABAF0002" active="true"/>
+   <TX_ID id="ABAF0003" active="true"/>
+   <TX_ID id="ABAG0001" active="false"/>
+   <TX_ID id="ABAG0002" active="false"/>
+   <TX_ID id="ABAG0003" active="false"/>
+   <TX_ID id="ABAH0001" active="false"/>
+   <TX_ID id="ABAH0002" active="false"/>
+   <TX_ID id="ABAH0003" active="false"/>
+   <TX_ID id="ABAI0001" active="false"/>
+   <TX_ID id="ABAI0002" active="false"/>
+   <TX_ID id="ABAI0003" active="false"/>
+   <TX_ID id="ABAJ0002" active="false"/>
+   <TX_ID id="ABAJ0003" active="false"/>
+   <TX_ID id="ABAK0002" active="false"/>
+   <TX_ID id="ABAK0003" active="false"/>
+   <TX_ID id="ABAL0002" active="false"/>
+   <TX_ID id="ABAM0002" active="false"/>
+   <TX_ID id="ABAM0003" active="false"/>
+   <TX_ID id="ABAN0003" active="false"/>
+   <TX_ID id="ABAO0001" active="false"/>
+   <TX_ID id="ABAO0002" active="false"/>
+   <TX_ID id="ABAP0001" active="false"/>
+   <TX_ID id="ABAQ0001" active="false"/>
+   <TX_ID id="ABAR0001" active="false"/>
+   <TX_ID id="ABAS0001" active="true"/>
+   <TX_ID id="ABAS0002" active="true"/>
   </TxGroup>
  </TxGroups>
  <LinkGroups size="1">
