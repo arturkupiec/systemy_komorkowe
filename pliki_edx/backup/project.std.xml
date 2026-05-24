@@ -2332,7 +2332,7 @@
  </MultipointStudyLayout>
  <NeighborListGeneration max_neighbors="4" include_2nd_servers="true" include_3rd_servers="true" exclude_co_channel_neighbors="true" group_identifier="master group" server_selection="PowerReceived" copy_predicted_to_actual="false" remote_unit_ID="0"/>
  <TxGroups size="1">
-  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="38">
+  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="53">
    <TX_ID id="ABAA0001" active="true"/>
    <TX_ID id="ABAA0002" active="true"/>
    <TX_ID id="ABAA0003" active="true"/>
@@ -2340,6 +2340,7 @@
    <TX_ID id="ABAB0002" active="true"/>
    <TX_ID id="ABAB0003" active="true"/>
    <TX_ID id="ABAC0001" active="true"/>
+   <TX_ID id="ABAC0002" active="true"/>
    <TX_ID id="ABAC0003" active="true"/>
    <TX_ID id="ABAD0001" active="true"/>
    <TX_ID id="ABAD0002" active="true"/>
@@ -2371,6 +2372,20 @@
    <TX_ID id="ABAP0001" active="true"/>
    <TX_ID id="ABAQ0001" active="true"/>
    <TX_ID id="ABAR0001" active="true"/>
+   <TX_ID id="ABAS0001" active="true"/>
+   <TX_ID id="ABAS0002" active="true"/>
+   <TX_ID id="ABAT0001" active="true"/>
+   <TX_ID id="ABAT0002" active="true"/>
+   <TX_ID id="ABAU0001" active="true"/>
+   <TX_ID id="ABAU0003" active="true"/>
+   <TX_ID id="ABAV0001" active="true"/>
+   <TX_ID id="ABAV0002" active="true"/>
+   <TX_ID id="ABAW0001" active="true"/>
+   <TX_ID id="ABAW0002" active="true"/>
+   <TX_ID id="ABAX0001" active="true"/>
+   <TX_ID id="ABAY0001" active="true"/>
+   <TX_ID id="ABAY0002" active="true"/>
+   <TX_ID id="ABAZ0001" active="true"/>
   </TxGroup>
  </TxGroups>
  <LinkGroups size="1">
