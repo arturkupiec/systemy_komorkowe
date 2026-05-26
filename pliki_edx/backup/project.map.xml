@@ -2,8 +2,8 @@
 <ViewFile Version="8.4.0">
  <Print paper_size="1" default_source="7" orientation="2" left_margin="500" right_margin="500" top_margin="750" bottom_margin="500" driver="winspool" device="hp deskjet 970c series" output="lpt1:"/>
  <Views size="1" last_active="0">
-  <View name="initial view" top="-23" left="-4" width="1446" height="927" show="true" maximized="true">
-   <ProjectedCoordinateSystem map_center_latitude="44.55216184795153" map_center_longitude="-122.9159858371581" data_entry_display_type="lat/long: deg/min/sec" projected_coordinate_system="Latitude/Longitude" projection="Transverse Mercator" datum="WGS 84"/>
+  <View name="initial view" top="-23" left="-4" width="1656" height="941" show="true" maximized="true">
+   <ProjectedCoordinateSystem map_center_latitude="44.65162535964523" map_center_longitude="-122.8739376651237" data_entry_display_type="lat/long: deg/min/sec" projected_coordinate_system="Latitude/Longitude" projection="Transverse Mercator" datum="WGS 84"/>
    <MapTitle title="EDX Wireless" subtitle="Smart Planning for Smart Networks" date="" exhibit="" use_cur_date="false"/>
    <RefGrid reference="grid lines" spacing="30&apos;" show_annotations="true">
     <PenDesc>
@@ -68,7 +68,7 @@
     <note text=""/>
     <note text=""/>
    </LegendOptions>
-   <MapPref measurement_system="Metric" origin="lower left corner" MapScale="1:199144" view_elevation_angle="90.0" view_azimuth="180.0" vert_scale_mult="1.0" base_height="0.0" light_elevation_angle="20.0" light_azimuth="315.0" use_directional_light="false" cursor_height="0.0" show_legend="false" power_display_units="dBW" antenna_gain_type="dBi" align_map_center_with_study_grid="false" display_as_2D="true">
+   <MapPref measurement_system="Metric" origin="lower left corner" MapScale="1:214932" view_elevation_angle="90.0" view_azimuth="180.0" vert_scale_mult="1.0" base_height="0.0" light_elevation_angle="20.0" light_azimuth="315.0" use_directional_light="false" cursor_height="0.0" show_legend="false" power_display_units="dBW" antenna_gain_type="dBi" align_map_center_with_study_grid="false" display_as_2D="true">
     <BorderPenDesc>
      <PenDesc width="0.7" style="solid">
       <Color r="0" g="0" b="0"/>
@@ -296,7 +296,7 @@
     </StudyGrid>
     <TerrainGrid plot_type="color gradient" contour_line_width="0.3" edge_relief="0.9804000000000001" use_lighting_effects="false" use_terrain_and_clutter="true">
      <terrain_flat_grid_colors>
-      <ColorMapIndex index="2"/>
+      <ColorMapIndex index="8"/>
      </terrain_flat_grid_colors>
      <terrain_contour_colors>
       <ColorMapIndex index="9"/>
@@ -555,14 +555,14 @@
       </ColorMapIndexTable>
      </link_colors>
     </LinkSiteStyle>
+    <MapLayerTypeAndLayer layer_type="terrain maxima locations">
+     <MapLayer description="" show="false" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
+      <MaplayerInfo number_of_max="100" minimum_separation="1.0" calculate_min="false" use_filter="false" polygon_filter=""/>
+     </MapLayer>
+    </MapLayerTypeAndLayer>
     <MapLayerTypeAndLayer layer_type="EDX graphic objects">
      <MapLayer description="" show="true" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
       <MaplayerInfo/>
-     </MapLayer>
-    </MapLayerTypeAndLayer>
-    <MapLayerTypeAndLayer layer_type="terrain maxima locations">
-     <MapLayer description="" show="false" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
-      <MaplayerInfo number_of_max="160" minimum_separation="5.0" calculate_min="false" use_filter="false" polygon_filter=""/>
      </MapLayer>
     </MapLayerTypeAndLayer>
     <MapLayerTypeAndLayer layer_type="transmitter/base/hub sites">
@@ -575,23 +575,23 @@
       <MaplayerInfo/>
      </MapLayer>
     </MapLayerTypeAndLayer>
-    <MapLayerTypeAndLayer layer_type="signal levels: 3">
-     <MapLayer description="Strongest (most likely) Server" show="false" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
-      <MaplayerInfo area_study_index="3"/>
-     </MapLayer>
-    </MapLayerTypeAndLayer>
     <MapLayerTypeAndLayer layer_type="signal levels: 2">
      <MapLayer description="Received power at best base from remote" show="false" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
       <MaplayerInfo area_study_index="2"/>
      </MapLayer>
     </MapLayerTypeAndLayer>
+    <MapLayerTypeAndLayer layer_type="signal levels: 3">
+     <MapLayer description="Strongest (most likely) Server" show="true" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
+      <MaplayerInfo area_study_index="3"/>
+     </MapLayer>
+    </MapLayerTypeAndLayer>
     <MapLayerTypeAndLayer layer_type="signal levels: 0">
-     <MapLayer description="Worst channel C/(I+N) for multiple-channel systems" show="true" show_on_legend="false" min_scale="1e-005" max_scale="2500.0" alpha="100">
+     <MapLayer description="Worst channel C/(I+N) for multiple-channel systems" show="false" show_on_legend="false" min_scale="1e-005" max_scale="2500.0" alpha="100">
       <MaplayerInfo area_study_index="0"/>
      </MapLayer>
     </MapLayerTypeAndLayer>
     <MapLayerTypeAndLayer layer_type="reference grid">
-     <MapLayer description="" show="false" show_on_legend="false" min_scale="1e-005" max_scale="2500.0" alpha="100">
+     <MapLayer description="" show="true" show_on_legend="false" min_scale="1e-005" max_scale="2500.0" alpha="100">
       <MaplayerInfo/>
      </MapLayer>
     </MapLayerTypeAndLayer>
