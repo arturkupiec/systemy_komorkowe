@@ -38,12 +38,12 @@
          0.0 sq km in service area
   
   
- SECTOR ABAC0003
+ SECTOR ABAC0002
   
          0.0 sq km in service area
   
   
- SECTOR ABAC0002
+ SECTOR ABAC0003
   
          0.0 sq km in service area
   
@@ -59,6 +59,11 @@
   
   
  SECTOR ABAD0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0001
   
          0.0 sq km in service area
   
@@ -133,12 +138,17 @@
          0.0 sq km in service area
   
   
+ SECTOR ABAJ0001
+  
+         0.0 sq km in service area
+  
+  
  SECTOR ABAJ0002
   
          0.0 sq km in service area
   
   
- SECTOR ABAJ0003
+ SECTOR ABAK0001
   
          0.0 sq km in service area
   
@@ -148,7 +158,7 @@
          0.0 sq km in service area
   
   
- SECTOR ABAK0003
+ SECTOR ABAL0001
   
          0.0 sq km in service area
   
@@ -158,12 +168,27 @@
          0.0 sq km in service area
   
   
+ SECTOR ABAL0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAM0001
+  
+         0.0 sq km in service area
+  
+  
  SECTOR ABAM0002
   
          0.0 sq km in service area
   
   
- SECTOR ABAM0003
+ SECTOR ABAN0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAN0002
   
          0.0 sq km in service area
   
@@ -183,102 +208,1532 @@
          0.0 sq km in service area
   
   
+ SECTOR ABAO0003
+  
+         0.0 sq km in service area
+  
+  
  SECTOR ABAP0001
   
          0.0 sq km in service area
   
   
- SECTOR ABAQ0001
+ SECTOR ABAP0002
   
          0.0 sq km in service area
   
   
- SECTOR ABAR0001
+ Worst Channel C/(I+N) for Multiple-Channel Systems
+  
+ Downlink required service C/(I+N) threshold:   13.00000    
+  
+  
+ SECTOR ABAA0001
   
          0.0 sq km in service area
   
   
- SECTOR ABAS0001
+ SECTOR ABAA0002
   
          0.0 sq km in service area
   
   
- SECTOR ABAS0002
+ SECTOR ABAA0003
   
          0.0 sq km in service area
   
   
- SECTOR ABAT0001
+ SECTOR ABAB0001
   
          0.0 sq km in service area
   
   
- SECTOR ABAT0002
+ SECTOR ABAB0002
   
          0.0 sq km in service area
   
   
- SECTOR ABAU0001
+ SECTOR ABAB0003
   
          0.0 sq km in service area
   
   
- SECTOR ABAU0003
+ SECTOR ABAC0001
   
          0.0 sq km in service area
   
   
- SECTOR ABAV0001
+ SECTOR ABAC0002
   
          0.0 sq km in service area
   
   
- SECTOR ABAV0002
+ SECTOR ABAC0003
   
          0.0 sq km in service area
   
   
- SECTOR ABAW0001
+ SECTOR ABAD0001
   
          0.0 sq km in service area
   
   
- SECTOR ABAW0002
+ SECTOR ABAD0002
   
          0.0 sq km in service area
   
   
- SECTOR ABAX0001
+ SECTOR ABAD0003
   
          0.0 sq km in service area
   
   
- SECTOR ABAY0001
+ SECTOR ABAE0001
   
          0.0 sq km in service area
   
   
- SECTOR ABAY0002
+ SECTOR ABAE0002
   
          0.0 sq km in service area
   
   
- SECTOR ABAZ0001
+ SECTOR ABAE0003
   
          0.0 sq km in service area
   
   
- SECTOR ABBA0001
+ SECTOR ABAF0001
   
          0.0 sq km in service area
   
   
- SECTOR ABBB0001
+ SECTOR ABAF0002
   
          0.0 sq km in service area
   
   
- SECTOR ABBC0001
+ SECTOR ABAF0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAH0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAH0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAH0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAK0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAK0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAL0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAL0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAL0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAM0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAM0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAN0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAN0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAN0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAO0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAO0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAO0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAP0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAP0002
+  
+         0.0 sq km in service area
+  
+  
+ Worst Channel C/(I+N) for Multiple-Channel Systems
+  
+ Downlink required service C/(I+N) threshold:   13.00000    
+  
+  
+ SECTOR ABAA0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAA0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAA0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAF0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAF0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAF0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAH0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAH0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAH0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAK0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAK0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAL0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAL0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAL0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAM0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAM0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAN0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAN0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAN0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAO0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAO0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAO0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAP0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAP0002
+  
+         0.0 sq km in service area
+  
+  
+ Worst Channel C/(I+N) for Multiple-Channel Systems
+  
+ Downlink required service C/(I+N) threshold:   13.00000    
+  
+  
+ SECTOR ABAA0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAA0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAA0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAF0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAF0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAF0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAK0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAK0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAL0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAL0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAL0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAM0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAM0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAN0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAN0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAN0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAO0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAO0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAO0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAP0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAP0002
+  
+         0.0 sq km in service area
+  
+  
+ Worst Channel C/(I+N) for Multiple-Channel Systems
+  
+ Downlink required service C/(I+N) threshold:   13.00000    
+  
+  
+ SECTOR ABAA0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAA0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAA0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAF0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAF0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAF0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAK0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAK0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAL0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAL0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAL0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAM0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAM0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAN0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAN0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAN0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAO0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAO0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAO0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAP0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAP0002
+  
+         0.0 sq km in service area
+  
+  
+ Worst Channel C/(I+N) for Multiple-Channel Systems
+  
+ Downlink required service C/(I+N) threshold:   13.00000    
+  
+  
+ SECTOR ABAA0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAA0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAA0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAF0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAF0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAF0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAK0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAK0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAL0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAL0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAL0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAM0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAM0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAN0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAN0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAN0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAO0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAO0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAO0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAP0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAP0002
+  
+         0.0 sq km in service area
+  
+  
+ Worst Channel C/(I+N) for Multiple-Channel Systems
+  
+ Downlink required service C/(I+N) threshold:   13.00000    
+  
+  
+ SECTOR ABAA0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAA0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAA0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAF0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAF0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAF0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAK0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAK0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAL0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAL0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAL0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAM0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAM0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAN0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAN0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAN0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAO0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAO0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAO0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAP0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAP0002
+  
+         0.0 sq km in service area
+  
+  
+ Worst Channel C/(I+N) for Multiple-Channel Systems
+  
+ Downlink required service C/(I+N) threshold:   13.00000    
+  
+  
+ SECTOR ABAA0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAA0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAA0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAB0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAC0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAD0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAE0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAF0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAF0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAF0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAG0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAH0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAH0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAH0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAI0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAJ0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAK0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAK0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAL0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAL0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAL0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAM0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAM0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAN0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAN0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAN0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAO0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAO0002
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAO0003
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAP0001
+  
+         0.0 sq km in service area
+  
+  
+ SECTOR ABAP0002
   
          0.0 sq km in service area
   
