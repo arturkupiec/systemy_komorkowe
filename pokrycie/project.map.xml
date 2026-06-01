@@ -2,8 +2,8 @@
 <ViewFile Version="8.4.0">
  <Print paper_size="1" default_source="7" orientation="2" left_margin="500" right_margin="500" top_margin="750" bottom_margin="500" driver="winspool" device="hp deskjet 970c series" output="lpt1:"/>
  <Views size="3" last_active="2">
-  <View name="channel_sector" top="13" left="24" width="1395" height="941" show="true" maximized="false">
-   <ProjectedCoordinateSystem map_center_latitude="44.6740940058383" map_center_longitude="-122.8374445667335" data_entry_display_type="lat/long: deg/min/sec" projected_coordinate_system="Latitude/Longitude" projection="Transverse Mercator" datum="WGS 84"/>
+  <View name="channel_sector" top="-23" left="-4" width="1574" height="943" show="true" maximized="true">
+   <ProjectedCoordinateSystem map_center_latitude="44.60219776983077" map_center_longitude="-123.209531787482" data_entry_display_type="lat/long: deg/min/sec" projected_coordinate_system="Latitude/Longitude" projection="Transverse Mercator" datum="WGS 84"/>
    <MapTitle title="EDX Wireless" subtitle="Smart Planning for Smart Networks" date="" exhibit="" use_cur_date="false"/>
    <RefGrid reference="grid lines" spacing="30&apos;" show_annotations="true">
     <PenDesc>
@@ -506,7 +506,7 @@
      </MapLayer>
     </MapLayerTypeAndLayer>
     <MapLayerTypeAndLayer layer_type="signal levels: 2">
-     <MapLayer description="Received power at best base from remote" show="false" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
+     <MapLayer description="Received power at best base from remote" show="false" show_on_legend="false" min_scale="1e-005" max_scale="2500.0" alpha="100">
       <MaplayerInfo area_study_index="2"/>
      </MapLayer>
     </MapLayerTypeAndLayer>
@@ -547,7 +547,7 @@
     </MapLayerTypeAndLayer>
    </MapLayers>
   </View>
-  <View name="izometric" top="9" left="26" width="1574" height="941" show="true" maximized="false">
+  <View name="izometric" top="10" left="30" width="1566" height="941" show="true" maximized="false">
    <ProjectedCoordinateSystem map_center_latitude="44.71320306655398" map_center_longitude="-122.7675484048593" data_entry_display_type="lat/long: deg/min/sec" projected_coordinate_system="Latitude/Longitude" projection="Transverse Mercator" datum="WGS 84"/>
    <MapTitle title="EDX Wireless" subtitle="Smart Planning for Smart Networks" date="" exhibit="" use_cur_date="false"/>
    <RefGrid reference="grid lines" spacing="30&apos;" show_annotations="true">
@@ -921,7 +921,7 @@
     </MapLayerTypeAndLayer>
    </MapLayers>
   </View>
-  <View name="traffic_sector" top="-23" left="-4" width="1574" height="943" show="true" maximized="true">
+  <View name="traffic_sector" top="8" left="4" width="1566" height="943" show="true" maximized="false">
    <ProjectedCoordinateSystem map_center_latitude="44.6740940058383" map_center_longitude="-122.8374445667335" data_entry_display_type="lat/long: deg/min/sec" projected_coordinate_system="Latitude/Longitude" projection="Transverse Mercator" datum="WGS 84"/>
    <MapTitle title="EDX Wireless" subtitle="Smart Planning for Smart Networks" date="" exhibit="" use_cur_date="false"/>
    <RefGrid reference="grid lines" spacing="30&apos;" show_annotations="true">

@@ -2,7 +2,7 @@
 <ViewFile Version="8.4.0">
  <Print paper_size="1" default_source="7" orientation="2" left_margin="500" right_margin="500" top_margin="750" bottom_margin="500" driver="winspool" device="hp deskjet 970c series" output="lpt1:"/>
  <Views size="3" last_active="2">
-  <View name="channel_sector" top="12" left="20" width="1403" height="941" show="true" maximized="false">
+  <View name="channel_sector" top="13" left="24" width="1395" height="941" show="true" maximized="false">
    <ProjectedCoordinateSystem map_center_latitude="44.6740940058383" map_center_longitude="-122.8374445667335" data_entry_display_type="lat/long: deg/min/sec" projected_coordinate_system="Latitude/Longitude" projection="Transverse Mercator" datum="WGS 84"/>
    <MapTitle title="EDX Wireless" subtitle="Smart Planning for Smart Networks" date="" exhibit="" use_cur_date="false"/>
    <RefGrid reference="grid lines" spacing="30&apos;" show_annotations="true">
@@ -547,7 +547,7 @@
     </MapLayerTypeAndLayer>
    </MapLayers>
   </View>
-  <View name="izometric" top="8" left="22" width="1582" height="941" show="true" maximized="false">
+  <View name="izometric" top="9" left="26" width="1574" height="941" show="true" maximized="false">
    <ProjectedCoordinateSystem map_center_latitude="44.71320306655398" map_center_longitude="-122.7675484048593" data_entry_display_type="lat/long: deg/min/sec" projected_coordinate_system="Latitude/Longitude" projection="Transverse Mercator" datum="WGS 84"/>
    <MapTitle title="EDX Wireless" subtitle="Smart Planning for Smart Networks" date="" exhibit="" use_cur_date="false"/>
    <RefGrid reference="grid lines" spacing="30&apos;" show_annotations="true">
@@ -921,7 +921,7 @@
     </MapLayerTypeAndLayer>
    </MapLayers>
   </View>
-  <View name="traffic_sector" top="-23" left="-4" width="1590" height="941" show="true" maximized="true">
+  <View name="traffic_sector" top="-23" left="-4" width="1574" height="943" show="true" maximized="true">
    <ProjectedCoordinateSystem map_center_latitude="44.6740940058383" map_center_longitude="-122.8374445667335" data_entry_display_type="lat/long: deg/min/sec" projected_coordinate_system="Latitude/Longitude" projection="Transverse Mercator" datum="WGS 84"/>
    <MapTitle title="EDX Wireless" subtitle="Smart Planning for Smart Networks" date="" exhibit="" use_cur_date="false"/>
    <RefGrid reference="grid lines" spacing="30&apos;" show_annotations="true">

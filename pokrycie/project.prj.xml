@@ -174,12 +174,12 @@
  </LinkDetailsOptions>
  <PROJECT_PANE_TREE size="19">
   <TreeNode NodeType="RFSystems" NodeText="RF Systems" state="96"/>
-  <TreeNode NodeType="Site" NodeText="Transmitter/Base/Hub/Router Sites" state="96"/>
+  <TreeNode NodeType="Site" NodeText="Transmitter/Base/Hub/Router Sites" state="98"/>
   <TreeNode NodeType="Link" NodeText="Link Systems" state="0"/>
   <TreeNode NodeType="Views" NodeText="Map Views" state="96"/>
   <TreeNode NodeType="MapView" NodeText="channel_sector" state="96"/>
   <TreeNode NodeType="MapView" NodeText="izometric" state="96"/>
-  <TreeNode NodeType="MapView" NodeText="traffic_sector" state="98"/>
+  <TreeNode NodeType="MapView" NodeText="traffic_sector" state="96"/>
   <TreeNode NodeType="MapViewLayer" NodeText="Map Layers" state="96"/>
   <TreeNode NodeType="MapViewLayer" NodeText="Map Layers" state="96"/>
   <TreeNode NodeType="MapViewLayer" NodeText="Map Layers" state="96"/>

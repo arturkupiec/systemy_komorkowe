@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <ViewFile Version="8.4.0">
  <Print paper_size="1" default_source="7" orientation="2" left_margin="500" right_margin="500" top_margin="750" bottom_margin="500" driver="winspool" device="hp deskjet 970c series" output="lpt1:"/>
- <Views size="2" last_active="1">
-  <View name="c/i_transparent" top="12" left="20" width="1403" height="941" show="true" maximized="false">
-   <ProjectedCoordinateSystem map_center_latitude="44.6740940058383" map_center_longitude="-122.8374445667335" data_entry_display_type="lat/long: deg/min/sec" projected_coordinate_system="Latitude/Longitude" projection="Transverse Mercator" datum="WGS 84"/>
+ <Views size="2" last_active="0">
+  <View name="c/i_transparent" top="-23" left="-4" width="1574" height="943" show="true" maximized="true">
+   <ProjectedCoordinateSystem map_center_latitude="44.6341192133098" map_center_longitude="-122.754560402976" data_entry_display_type="lat/long: deg/min/sec" projected_coordinate_system="Latitude/Longitude" projection="Transverse Mercator" datum="WGS 84"/>
    <MapTitle title="EDX Wireless" subtitle="Smart Planning for Smart Networks" date="" exhibit="" use_cur_date="false"/>
    <RefGrid reference="grid lines" spacing="30&apos;" show_annotations="true">
     <PenDesc>
@@ -471,7 +471,7 @@
     </MapLayerTypeAndLayer>
    </MapLayers>
   </View>
-  <View name="c/i" top="-23" left="-4" width="1574" height="943" show="true" maximized="true">
+  <View name="c/i" top="8" left="4" width="1566" height="943" show="true" maximized="false">
    <ProjectedCoordinateSystem map_center_latitude="44.6442037974404" map_center_longitude="-122.7843367704117" data_entry_display_type="lat/long: deg/min/sec" projected_coordinate_system="Latitude/Longitude" projection="Transverse Mercator" datum="WGS 84"/>
    <MapTitle title="EDX Wireless" subtitle="Smart Planning for Smart Networks" date="" exhibit="" use_cur_date="false"/>
    <RefGrid reference="grid lines" spacing="30&apos;" show_annotations="true">
@@ -909,12 +909,12 @@
      </MapLayer>
     </MapLayerTypeAndLayer>
     <MapLayerTypeAndLayer layer_type="traffic data">
-     <MapLayer description="" show="false" show_on_legend="false" min_scale="1e-005" max_scale="2500.0" alpha="100">
+     <MapLayer description="" show="true" show_on_legend="false" min_scale="1e-005" max_scale="2500.0" alpha="100">
       <MaplayerInfo/>
      </MapLayer>
     </MapLayerTypeAndLayer>
     <MapLayerTypeAndLayer layer_type="signal levels: 1">
-     <MapLayer description="Strongest (most likely) Server" show="false" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
+     <MapLayer description="Strongest (most likely) Server" show="true" show_on_legend="true" min_scale="1e-005" max_scale="2500.0" alpha="100">
       <MaplayerInfo area_study_index="1"/>
      </MapLayer>
     </MapLayerTypeAndLayer>
