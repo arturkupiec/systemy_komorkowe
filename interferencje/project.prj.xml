@@ -167,7 +167,7 @@
  </LinkDetailsOptions>
  <PROJECT_PANE_TREE size="14">
   <TreeNode NodeType="RFSystems" NodeText="RF Systems" state="98"/>
-  <TreeNode NodeType="Site" NodeText="Transmitter/Base/Hub/Router Sites" state="96"/>
+  <TreeNode NodeType="Site" NodeText="Transmitter/Base/Hub/Router Sites" state="0"/>
   <TreeNode NodeType="Link" NodeText="Link Systems" state="0"/>
   <TreeNode NodeType="Views" NodeText="Map Views" state="96"/>
   <TreeNode NodeType="MapView" NodeText="c/i_transparent" state="96"/>

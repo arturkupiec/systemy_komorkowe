@@ -1,0 +1,904 @@
+Temp. level:    1.000     Acceptance ratio:    0.881     Current cost:       25.644
+Temp. level:    0.980     Acceptance ratio:    0.874     Current cost:       19.173
+Temp. level:    0.960     Acceptance ratio:    0.871     Current cost:       26.181
+Temp. level:    0.941     Acceptance ratio:    0.866     Current cost:       22.601
+Temp. level:    0.922     Acceptance ratio:    0.868     Current cost:       27.207
+Temp. level:    0.904     Acceptance ratio:    0.855     Current cost:       24.620
+Temp. level:    0.886     Acceptance ratio:    0.856     Current cost:       20.531
+Temp. level:    0.868     Acceptance ratio:    0.844     Current cost:       24.684
+Temp. level:    0.851     Acceptance ratio:    0.839     Current cost:       23.762
+Temp. level:    0.834     Acceptance ratio:    0.827     Current cost:       22.598
+Temp. level:    0.817     Acceptance ratio:    0.814     Current cost:       18.638
+Temp. level:    0.801     Acceptance ratio:    0.825     Current cost:       20.921
+Temp. level:    0.785     Acceptance ratio:    0.807     Current cost:       15.254
+Temp. level:    0.769     Acceptance ratio:    0.805     Current cost:       23.927
+Temp. level:    0.754     Acceptance ratio:    0.798     Current cost:       25.118
+Temp. level:    0.739     Acceptance ratio:    0.792     Current cost:       21.465
+Temp. level:    0.724     Acceptance ratio:    0.787     Current cost:       22.233
+Temp. level:    0.709     Acceptance ratio:    0.772     Current cost:       20.589
+Temp. level:    0.695     Acceptance ratio:    0.767     Current cost:       27.515
+Temp. level:    0.681     Acceptance ratio:    0.758     Current cost:       20.547
+Temp. level:    0.668     Acceptance ratio:    0.743     Current cost:       23.232
+Temp. level:    0.654     Acceptance ratio:    0.737     Current cost:       21.266
+Temp. level:    0.641     Acceptance ratio:    0.727     Current cost:       22.613
+Temp. level:    0.628     Acceptance ratio:    0.724     Current cost:       18.220
+Temp. level:    0.616     Acceptance ratio:    0.706     Current cost:       16.521
+Temp. level:    0.603     Acceptance ratio:    0.702     Current cost:       24.125
+Temp. level:    0.591     Acceptance ratio:    0.687     Current cost:       19.968
+Temp. level:    0.580     Acceptance ratio:    0.691     Current cost:       19.214
+Temp. level:    0.568     Acceptance ratio:    0.667     Current cost:       15.918
+Temp. level:    0.557     Acceptance ratio:    0.658     Current cost:       25.963
+Temp. level:    0.545     Acceptance ratio:    0.657     Current cost:       17.252
+Temp. level:    0.535     Acceptance ratio:    0.641     Current cost:       17.598
+Temp. level:    0.524     Acceptance ratio:    0.624     Current cost:       21.739
+Temp. level:    0.513     Acceptance ratio:    0.614     Current cost:       24.408
+Temp. level:    0.503     Acceptance ratio:    0.602     Current cost:       19.235
+Temp. level:    0.493     Acceptance ratio:    0.597     Current cost:       12.599
+Temp. level:    0.483     Acceptance ratio:    0.572     Current cost:       20.873
+Temp. level:    0.474     Acceptance ratio:    0.559     Current cost:       19.327
+Temp. level:    0.464     Acceptance ratio:    0.563     Current cost:       17.280
+Temp. level:    0.455     Acceptance ratio:    0.538     Current cost:       20.657
+Temp. level:    0.446     Acceptance ratio:    0.535     Current cost:       16.600
+Temp. level:    0.437     Acceptance ratio:    0.506     Current cost:       19.337
+Temp. level:    0.428     Acceptance ratio:    0.482     Current cost:       20.492
+Temp. level:    0.419     Acceptance ratio:    0.478     Current cost:       25.500
+Temp. level:    0.411     Acceptance ratio:    0.457     Current cost:       18.539
+Temp. level:    0.403     Acceptance ratio:    0.444     Current cost:       20.416
+Temp. level:    0.395     Acceptance ratio:    0.444     Current cost:       21.686
+Temp. level:    0.387     Acceptance ratio:    0.432     Current cost:       17.771
+Temp. level:    0.379     Acceptance ratio:    0.388     Current cost:       16.760
+Temp. level:    0.372     Acceptance ratio:    0.362     Current cost:       15.169
+Temp. level:    0.364     Acceptance ratio:    0.362     Current cost:       20.098
+Temp. level:    0.357     Acceptance ratio:    0.352     Current cost:       12.678
+Temp. level:    0.350     Acceptance ratio:    0.308     Current cost:       17.254
+Temp. level:    0.343     Acceptance ratio:    0.319     Current cost:       15.987
+Temp. level:    0.336     Acceptance ratio:    0.319     Current cost:       19.745
+Temp. level:    0.329     Acceptance ratio:    0.300     Current cost:       10.964
+Temp. level:    0.323     Acceptance ratio:    0.230     Current cost:       15.479
+Temp. level:    0.316     Acceptance ratio:    0.242     Current cost:       17.038
+Temp. level:    0.310     Acceptance ratio:    0.229     Current cost:       17.447
+Temp. level:    0.304     Acceptance ratio:    0.184     Current cost:       13.273
+Temp. level:    0.298     Acceptance ratio:    0.216     Current cost:       11.576
+Temp. level:    0.292     Acceptance ratio:    0.178     Current cost:       14.269
+Temp. level:    0.286     Acceptance ratio:    0.176     Current cost:       18.501
+Temp. level:    0.280     Acceptance ratio:    0.172     Current cost:       15.149
+Temp. level:    0.274     Acceptance ratio:    0.150     Current cost:       11.228
+Temp. level:    0.269     Acceptance ratio:    0.134     Current cost:       10.504
+Temp. level:    0.264     Acceptance ratio:    0.094     Current cost:       12.398
+Temp. level:    0.258     Acceptance ratio:    0.089     Current cost:       12.466
+Temp. level:    0.253     Acceptance ratio:    0.089     Current cost:       10.608
+Temp. level:    0.248     Acceptance ratio:    0.065     Current cost:       11.845
+Temp. level:    0.243     Acceptance ratio:    0.042     Current cost:        9.928
+Temp. level:    0.238     Acceptance ratio:    0.043     Current cost:        9.740
+Temp. level:    0.233     Acceptance ratio:    0.038     Current cost:        9.145
+Temp. level:    0.229     Acceptance ratio:    0.034     Current cost:       10.132
+Temp. level:    0.224     Acceptance ratio:    0.011     Current cost:        7.790
+Temp. level:    0.220     Acceptance ratio:    0.036     Current cost:        8.286
+Temp. level:    0.215     Acceptance ratio:    0.022     Current cost:        8.923
+Temp. level:    0.211     Acceptance ratio:    0.009     Current cost:        6.859
+Temp. level:    0.207     Acceptance ratio:    0.018     Current cost:        8.497
+Temp. level:    0.203     Acceptance ratio:    0.015     Current cost:        8.259
+Temp. level:    0.199     Acceptance ratio:    0.020     Current cost:        6.210
+Temp. level:    0.195     Acceptance ratio:    0.004     Current cost:        7.467
+Temp. level:    0.191     Acceptance ratio:    0.002     Current cost:        6.569
+Temp. level:    0.187     Acceptance ratio:    0.007     Current cost:        7.750
+Temp. level:    0.183     Acceptance ratio:    0.011     Current cost:        7.659
+Temp. level:    0.180     Acceptance ratio:    0.003     Current cost:        5.273
+Temp. level:    0.176     Acceptance ratio:    0.002     Current cost:        7.734
+Temp. level:    0.172     Acceptance ratio:    0.002     Current cost:        5.422
+Temp. level:    0.169     Acceptance ratio:    0.003     Current cost:        5.415
+Temp. level:    0.166     Acceptance ratio:    0.001     Current cost:        4.388
+Temp. level:    0.162     Acceptance ratio:    0.001     Current cost:        4.123
+Temp. level:    0.159     Acceptance ratio:    0.001     Current cost:        3.941
+Temp. level:    0.156     Acceptance ratio:    0.000     Current cost:        3.941
+Temp. level:    0.153     Acceptance ratio:    0.000     Current cost:        3.764
+Temp. level:    0.150     Acceptance ratio:    0.000     Current cost:        3.451
+Temp. level:    0.147     Acceptance ratio:    0.000     Current cost:        3.400
+Temp. level:    0.144     Acceptance ratio:    0.000     Current cost:        3.400
+Temp. level:    0.141     Acceptance ratio:    0.000     Current cost:        3.428
+Temp. level:    0.138     Acceptance ratio:    0.000     Current cost:        3.253
+Temp. level:    0.135     Acceptance ratio:    0.001     Current cost:        3.420
+Temp. level:    0.133     Acceptance ratio:    0.000     Current cost:        3.196
+Temp. level:    0.130     Acceptance ratio:    0.000     Current cost:        3.196
+Temp. level:    0.127     Acceptance ratio:    0.000     Current cost:        3.260
+Temp. level:    0.125     Acceptance ratio:    0.000     Current cost:        3.201
+Temp. level:    0.122     Acceptance ratio:    0.000     Current cost:        3.242
+Temp. level:    0.120     Acceptance ratio:    0.000     Current cost:        3.242
+Temp. level:    0.117     Acceptance ratio:    0.000     Current cost:        3.279
+Temp. level:    0.115     Acceptance ratio:    0.000     Current cost:        3.131
+Temp. level:    0.113     Acceptance ratio:    0.000     Current cost:        3.028
+Temp. level:    0.111     Acceptance ratio:    0.000     Current cost:        2.921
+Temp. level:    0.108     Acceptance ratio:    0.000     Current cost:        2.912
+Temp. level:    0.106     Acceptance ratio:    0.000     Current cost:        2.568
+Temp. level:    0.104     Acceptance ratio:    0.000     Current cost:        2.568
+Temp. level:    0.102     Acceptance ratio:    0.000     Current cost:        2.599
+Temp. level:    0.100     Acceptance ratio:    0.001     Current cost:        2.372
+Temp. level:    0.098     Acceptance ratio:    0.001     Current cost:        2.370
+Temp. level:    0.096     Acceptance ratio:    0.000     Current cost:        2.240
+Temp. level:    0.094     Acceptance ratio:    0.000     Current cost:        2.240
+Temp. level:    0.092     Acceptance ratio:    0.000     Current cost:        2.240
+Temp. level:    0.090     Acceptance ratio:    0.001     Current cost:        2.167
+Temp. level:    0.089     Acceptance ratio:    0.000     Current cost:        2.116
+Temp. level:    0.087     Acceptance ratio:    0.000     Current cost:        2.133
+Temp. level:    0.085     Acceptance ratio:    0.000     Current cost:        2.133
+Temp. level:    0.083     Acceptance ratio:    0.000     Current cost:        2.133
+Temp. level:    0.082     Acceptance ratio:    0.000     Current cost:        2.078
+Temp. level:    0.080     Acceptance ratio:    0.000     Current cost:        1.977
+Temp. level:    0.078     Acceptance ratio:    0.000     Current cost:        1.926
+Temp. level:    0.077     Acceptance ratio:    0.000     Current cost:        1.837
+Temp. level:    0.075     Acceptance ratio:    0.000     Current cost:        1.837
+Temp. level:    0.074     Acceptance ratio:    0.000     Current cost:        1.837
+Temp. level:    0.072     Acceptance ratio:    0.000     Current cost:        1.848
+Temp. level:    0.071     Acceptance ratio:    0.000     Current cost:        1.823
+Temp. level:    0.069     Acceptance ratio:    0.000     Current cost:        1.816
+Temp. level:    0.068     Acceptance ratio:    0.000     Current cost:        1.817
+Temp. level:    0.067     Acceptance ratio:    0.001     Current cost:        1.744
+Temp. level:    0.065     Acceptance ratio:    0.000     Current cost:        1.711
+Temp. level:    0.064     Acceptance ratio:    0.001     Current cost:        1.525
+Temp. level:    0.063     Acceptance ratio:    0.000     Current cost:        1.477
+Temp. level:    0.062     Acceptance ratio:    0.001     Current cost:        1.427
+Temp. level:    0.060     Acceptance ratio:    0.000     Current cost:        1.427
+Temp. level:    0.059     Acceptance ratio:    0.000     Current cost:        1.427
+Temp. level:    0.058     Acceptance ratio:    0.000     Current cost:        1.427
+Temp. level:    0.057     Acceptance ratio:    0.000     Current cost:        1.427
+Temp. level:    0.056     Acceptance ratio:    0.000     Current cost:        1.427
+Temp. level:    0.055     Acceptance ratio:    0.000     Current cost:        1.427
+Temp. level:    0.053     Acceptance ratio:    0.000     Current cost:        1.427
+Temp. level:    0.052     Acceptance ratio:    0.000     Current cost:        1.427
+Temp. level:    0.051     Acceptance ratio:    0.000     Current cost:        1.427
+Temp. level:    0.050     Acceptance ratio:    0.000     Current cost:        1.427
+Temp. level:    0.049     Acceptance ratio:    0.000     Current cost:        1.427
+Temp. level:    0.048     Acceptance ratio:    0.000     Current cost:        1.427
+Temp. level:    0.047     Acceptance ratio:    0.000     Current cost:        1.427
+Temp. level:    0.046     Acceptance ratio:    0.000     Current cost:        1.425
+Temp. level:    0.045     Acceptance ratio:    0.000     Current cost:        1.425
+Temp. level:    0.045     Acceptance ratio:    0.000     Current cost:        1.425
+Temp. level:    0.044     Acceptance ratio:    0.000     Current cost:        1.425
+Temp. level:    0.043     Acceptance ratio:    0.000     Current cost:        1.425
+Temp. level:    0.042     Acceptance ratio:    0.000     Current cost:        1.383
+Temp. level:    0.041     Acceptance ratio:    0.000     Current cost:        1.383
+Temp. level:    0.040     Acceptance ratio:    0.000     Current cost:        1.383
+Temp. level:    0.039     Acceptance ratio:    0.000     Current cost:        1.383
+Temp. level:    0.039     Acceptance ratio:    0.000     Current cost:        1.383
+Temp. level:    0.038     Acceptance ratio:    0.000     Current cost:        1.383
+Temp. level:    0.037     Acceptance ratio:    0.000     Current cost:        1.383
+Temp. level:    0.036     Acceptance ratio:    0.000     Current cost:        1.383
+Temp. level:    0.036     Acceptance ratio:    0.000     Current cost:        1.383
+Temp. level:    0.035     Acceptance ratio:    0.000     Current cost:        1.383
+Temp. level:    0.034     Acceptance ratio:    0.000     Current cost:        1.383
+Temp. level:    0.034     Acceptance ratio:    0.000     Current cost:        1.383
+Temp. level:    0.033     Acceptance ratio:    0.000     Current cost:        1.383
+Temp. level:    0.032     Acceptance ratio:    0.000     Current cost:        1.383
+Temp. level:    0.032     Acceptance ratio:    0.000     Current cost:        1.383
+Temp. level:    0.031     Acceptance ratio:    0.000     Current cost:        1.371
+Temp. level:    0.030     Acceptance ratio:    0.000     Current cost:        1.371
+Temp. level:    0.030     Acceptance ratio:    0.000     Current cost:        1.371
+Temp. level:    0.029     Acceptance ratio:    0.000     Current cost:        1.371
+Temp. level:    0.029     Acceptance ratio:    0.000     Current cost:        1.371
+Temp. level:    0.028     Acceptance ratio:    0.000     Current cost:        1.371
+Temp. level:    0.027     Acceptance ratio:    0.000     Current cost:        1.371
+Temp. level:    0.027     Acceptance ratio:    0.000     Current cost:        1.371
+Temp. level:    0.026     Acceptance ratio:    0.000     Current cost:        1.371
+Temp. level:    0.026     Acceptance ratio:    0.000     Current cost:        1.371
+Temp. level:    0.025     Acceptance ratio:    0.000     Current cost:        1.371
+Temp. level:    0.025     Acceptance ratio:    0.000     Current cost:        1.371
+Temp. level:    0.024     Acceptance ratio:    0.000     Current cost:        1.371
+Temp. level:    0.024     Acceptance ratio:    0.000     Current cost:        1.371
+Temp. level:    0.023     Acceptance ratio:    0.000     Current cost:        1.371
+Temp. level:    0.023     Acceptance ratio:    0.000     Current cost:        1.359
+Temp. level:    0.022     Acceptance ratio:    0.000     Current cost:        1.353
+Temp. level:    0.022     Acceptance ratio:    0.000     Current cost:        1.353
+Temp. level:    0.022     Acceptance ratio:    0.000     Current cost:        1.353
+Temp. level:    0.021     Acceptance ratio:    0.000     Current cost:        1.343
+Temp. level:    0.021     Acceptance ratio:    0.000     Current cost:        1.343
+Temp. level:    0.020     Acceptance ratio:    0.000     Current cost:        1.343
+Temp. level:    0.020     Acceptance ratio:    0.000     Current cost:        1.343
+Temp. level:    0.019     Acceptance ratio:    0.000     Current cost:        1.343
+Temp. level:    0.019     Acceptance ratio:    0.000     Current cost:        1.343
+Temp. level:    0.019     Acceptance ratio:    0.000     Current cost:        1.343
+Temp. level:    0.018     Acceptance ratio:    0.000     Current cost:        1.343
+Temp. level:    0.018     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.018     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.017     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.017     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.017     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.016     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.016     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.016     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.015     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.015     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.015     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.014     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.014     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.014     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.014     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.013     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.013     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.013     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.012     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.012     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.012     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.012     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.012     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.011     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.011     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.011     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.011     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.010     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.010     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.010     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.010     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.010     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.009     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.009     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.009     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.009     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.009     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.008     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.008     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.008     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.008     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.008     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.008     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.008     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.007     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.007     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.007     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.007     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.007     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.007     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.007     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.006     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.006     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.006     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.006     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.006     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.006     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.006     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.006     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.005     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.005     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.005     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.005     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.005     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.005     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.005     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.005     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.005     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.005     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.004     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.004     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.004     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.004     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.004     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.004     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.004     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.004     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.004     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.004     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.004     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.004     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.003     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.003     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.003     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.003     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.003     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.003     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.003     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.003     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.003     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.003     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.003     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.003     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.003     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.003     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.003     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.003     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.003     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.002     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.002     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.002     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.002     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.002     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.002     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.002     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.002     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.002     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.002     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.002     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.002     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.002     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.002     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.002     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.002     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.002     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.002     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.002     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.002     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.002     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.002     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.002     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.002     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.002     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.002     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.001     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+Temp. level:    0.000     Acceptance ratio:    0.000     Current cost:        1.330
+sectors ABAA0002 on ch 26,ABAI0001 on ch 26, cost =0.004
+sectors ABAA0002 on ch 13,ABAP0001 on ch 14, cost =0.002
+sectors ABAA0002 on ch 13,ABAR0001 on ch 13, cost =0.003
+sectors ABAA0002 on ch 13,ABBA0001 on ch 13, cost =0.019
+sectors ABAA0002 on ch 26,ABBA0002 on ch 26, cost =0.014
+sectors ABAA0003 on ch  5,ABAI0001 on ch  5, cost =0.007
+sectors ABAA0003 on ch  5,ABAO0003 on ch  6, cost =0.003
+sectors ABAB0001 on ch 20,ABBF0003 on ch 20, cost =0.002
+sectors ABAB0001 on ch 20,ABBG0002 on ch 20, cost =0.004
+sectors ABAB0002 on ch 22,ABAN0003 on ch 22, cost =0.010
+sectors ABAB0003 on ch 36,ABAP0002 on ch 37, cost =0.003
+sectors ABAC0001 on ch  4,ABAJ0002 on ch  4, cost =0.072
+sectors ABAC0001 on ch  4,ABAK0001 on ch  4, cost =0.016
+sectors ABAC0001 on ch  4,ABAO0002 on ch  5, cost =0.005
+sectors ABAC0001 on ch 11,ABAP0002 on ch 10, cost =0.003
+sectors ABAC0002 on ch 25,ABAD0003 on ch 25, cost =0.002
+sectors ABAC0002 on ch  6,ABAE0002 on ch  7, cost =0.007
+sectors ABAC0002 on ch 25,ABAE0003 on ch 26, cost =0.002
+sectors ABAC0002 on ch 27,ABAE0003 on ch 26, cost =0.002
+sectors ABAC0002 on ch  6,ABAO0003 on ch  6, cost =0.022
+sectors ABAC0002 on ch 27,ABAZ0001 on ch 28, cost =0.001
+sectors ABAC0003 on ch 17,ABAE0003 on ch 16, cost =0.009
+sectors ABAC0003 on ch  9,ABAV0003 on ch  9, cost =0.005
+sectors ABAC0003 on ch 17,ABAX0003 on ch 17, cost =0.011
+sectors ABAD0002 on ch 11,ABAC0001 on ch 11, cost =0.004
+sectors ABAD0002 on ch 23,ABAN0003 on ch 22, cost =0.001
+sectors ABAD0002 on ch 37,ABAP0002 on ch 37, cost =0.004
+sectors ABAD0002 on ch 23,ABAR0001 on ch 23, cost =0.007
+sectors ABAD0003 on ch 25,ABAC0002 on ch 25, cost =0.002
+sectors ABAD0003 on ch 32,ABAL0001 on ch 32, cost =0.002
+sectors ABAD0003 on ch  8,ABAN0001 on ch  9, cost =0.003
+sectors ABAD0003 on ch 32,ABBA0001 on ch 32, cost =0.002
+sectors ABAE0001 on ch 25,ABAE0003 on ch 26, cost =0.001
+sectors ABAE0001 on ch 18,ABAH0002 on ch 18, cost =0.066
+sectors ABAE0001 on ch 25,ABAK0002 on ch 25, cost =0.005
+sectors ABAE0001 on ch 21,ABAP0001 on ch 21, cost =0.007
+sectors ABAE0001 on ch 25,ABBC0001 on ch 24, cost =0.001
+sectors ABAE0002 on ch  7,ABAC0002 on ch  6, cost =0.004
+sectors ABAE0002 on ch 34,ABAL0002 on ch 34, cost =0.010
+sectors ABAE0002 on ch 36,ABAL0002 on ch 36, cost =0.010
+sectors ABAE0002 on ch 36,ABAP0002 on ch 37, cost =0.002
+sectors ABAE0003 on ch 26,ABAA0002 on ch 26, cost =0.005
+sectors ABAE0003 on ch 16,ABAC0003 on ch 17, cost =0.007
+sectors ABAE0003 on ch 26,ABAE0001 on ch 25, cost =0.002
+sectors ABAE0003 on ch 14,ABBA0001 on ch 13, cost =0.004
+sectors ABAF0001 on ch 27,ABAG0003 on ch 28, cost =0.001
+sectors ABAF0001 on ch 27,ABAW0002 on ch 27, cost =0.008
+sectors ABAF0002 on ch 33,ABAG0003 on ch 34, cost =0.004
+sectors ABAF0002 on ch 33,ABAH0001 on ch 33, cost =0.006
+sectors ABAF0002 on ch 15,ABAI0002 on ch 15, cost =0.002
+sectors ABAF0003 on ch 10,ABAP0002 on ch 10, cost =0.004
+sectors ABAG0001 on ch 26,ABAI0001 on ch 26, cost =0.002
+sectors ABAG0001 on ch  4,ABAK0001 on ch  4, cost =0.014
+sectors ABAG0001 on ch 26,ABAS0003 on ch 25, cost =0.001
+sectors ABAG0001 on ch  4,ABAT0001 on ch  3, cost =0.003
+sectors ABAG0001 on ch  4,ABBF0001 on ch  5, cost =0.007
+sectors ABAG0002 on ch 22,ABAL0002 on ch 22, cost =0.024
+sectors ABAG0003 on ch 34,ABAF0002 on ch 33, cost =0.006
+sectors ABAG0003 on ch 31,ABAH0001 on ch 31, cost =0.004
+sectors ABAG0003 on ch 34,ABAL0002 on ch 34, cost =0.008
+sectors ABAG0003 on ch 31,ABAM0001 on ch 30, cost =0.003
+sectors ABAG0003 on ch 34,ABAT0002 on ch 35, cost =0.006
+sectors ABAG0003 on ch 31,ABAY0003 on ch 31, cost =0.007
+sectors ABAH0001 on ch 31,ABAG0003 on ch 31, cost =0.002
+sectors ABAH0001 on ch 31,ABAI0002 on ch 30, cost =0.004
+sectors ABAH0001 on ch 33,ABAR0001 on ch 33, cost =0.005
+sectors ABAH0001 on ch 31,ABAY0003 on ch 31, cost =0.006
+sectors ABAH0002 on ch 18,ABAE0001 on ch 18, cost =0.006
+sectors ABAH0002 on ch 18,ABBD0002 on ch 18, cost =0.002
+sectors ABAH0003 on ch  5,ABAA0003 on ch  5, cost =0.002
+sectors ABAH0003 on ch  5,ABAK0001 on ch  4, cost =0.005
+sectors ABAI0001 on ch  5,ABAA0003 on ch  5, cost =0.019
+sectors ABAI0001 on ch  5,ABAJ0002 on ch  4, cost =0.004
+sectors ABAI0001 on ch  5,ABBF0001 on ch  5, cost =0.005
+sectors ABAI0002 on ch 30,ABAH0001 on ch 31, cost =0.005
+sectors ABAI0002 on ch 35,ABAL0002 on ch 36, cost =0.003
+sectors ABAI0002 on ch 35,ABAL0002 on ch 34, cost =0.003
+sectors ABAI0002 on ch  3,ABAL0003 on ch  3, cost =0.013
+sectors ABAI0002 on ch 39,ABAN0002 on ch 39, cost =0.017
+sectors ABAI0002 on ch 35,ABAP0001 on ch 35, cost =0.005
+sectors ABAI0002 on ch  3,ABAP0002 on ch  2, cost =0.008
+sectors ABAI0002 on ch 35,ABAT0002 on ch 35, cost =0.002
+sectors ABAI0002 on ch 30,ABAY0002 on ch 29, cost =0.003
+sectors ABAI0002 on ch 35,ABBC0002 on ch 35, cost =0.002
+sectors ABAI0003 on ch 21,ABAE0001 on ch 21, cost =0.014
+sectors ABAI0003 on ch 18,ABAE0001 on ch 18, cost =0.014
+sectors ABAI0003 on ch 18,ABAL0003 on ch 19, cost =0.008
+sectors ABAI0003 on ch 21,ABAP0001 on ch 21, cost =0.018
+sectors ABAI0003 on ch 23,ABAR0001 on ch 23, cost =0.011
+sectors ABAI0003 on ch 18,ABBD0002 on ch 18, cost =0.004
+sectors ABAJ0001 on ch 19,ABAS0003 on ch 19, cost =0.006
+sectors ABAJ0002 on ch  4,ABAC0001 on ch  4, cost =0.012
+sectors ABAJ0002 on ch  4,ABAK0001 on ch  4, cost =0.003
+sectors ABAJ0002 on ch 28,ABAZ0001 on ch 28, cost =0.003
+sectors ABAK0001 on ch  4,ABAC0001 on ch  4, cost =0.004
+sectors ABAK0001 on ch  4,ABAG0001 on ch  4, cost =0.002
+sectors ABAK0001 on ch  4,ABAH0003 on ch  5, cost =0.006
+sectors ABAK0001 on ch  4,ABAJ0002 on ch  4, cost =0.003
+sectors ABAK0002 on ch 25,ABAE0001 on ch 25, cost =0.003
+sectors ABAL0001 on ch 32,ABAD0003 on ch 32, cost =0.004
+sectors ABAL0001 on ch 32,ABAH0001 on ch 33, cost =0.002
+sectors ABAL0001 on ch 32,ABAH0001 on ch 31, cost =0.002
+sectors ABAL0001 on ch 30,ABAH0001 on ch 31, cost =0.002
+sectors ABAL0001 on ch 15,ABAP0001 on ch 14, cost =0.002
+sectors ABAL0001 on ch 38,ABAP0002 on ch 37, cost =0.001
+sectors ABAL0001 on ch 32,ABAR0001 on ch 33, cost =0.001
+sectors ABAL0001 on ch 15,ABAS0004 on ch 16, cost =0.002
+sectors ABAL0001 on ch 30,ABAY0002 on ch 29, cost =0.001
+sectors ABAL0001 on ch 32,ABBA0001 on ch 32, cost =0.011
+sectors ABAL0002 on ch  8,ABAD0003 on ch  8, cost =0.002
+sectors ABAL0002 on ch 36,ABAE0002 on ch 36, cost =0.003
+sectors ABAL0002 on ch 34,ABAE0002 on ch 34, cost =0.003
+sectors ABAL0002 on ch 22,ABAG0002 on ch 22, cost =0.007
+sectors ABAL0002 on ch 34,ABAG0003 on ch 34, cost =0.004
+sectors ABAL0002 on ch 34,ABAH0001 on ch 33, cost =0.003
+sectors ABAL0002 on ch 36,ABAI0002 on ch 35, cost =0.001
+sectors ABAL0002 on ch 34,ABAI0002 on ch 35, cost =0.001
+sectors ABAL0002 on ch 36,ABAP0001 on ch 35, cost =0.003
+sectors ABAL0002 on ch 22,ABAP0001 on ch 21, cost =0.003
+sectors ABAL0002 on ch 34,ABAP0001 on ch 35, cost =0.003
+sectors ABAL0002 on ch 36,ABAP0002 on ch 37, cost =0.005
+sectors ABAL0002 on ch 17,ABAQ0003 on ch 17, cost =0.013
+sectors ABAL0002 on ch 17,ABAX0003 on ch 17, cost =0.006
+sectors ABAL0003 on ch 25,ABAE0001 on ch 25, cost =0.002
+sectors ABAL0003 on ch 25,ABAI0001 on ch 26, cost =0.001
+sectors ABAL0003 on ch  3,ABAI0002 on ch  3, cost =0.005
+sectors ABAL0003 on ch 19,ABAI0003 on ch 18, cost =0.008
+sectors ABAL0003 on ch  3,ABAO0001 on ch  3, cost =0.004
+sectors ABAL0003 on ch  3,ABAP0002 on ch  2, cost =0.007
+sectors ABAL0003 on ch 11,ABAP0002 on ch 10, cost =0.007
+sectors ABAM0001 on ch 30,ABAG0003 on ch 31, cost =0.002
+sectors ABAM0001 on ch 10,ABAP0002 on ch 10, cost =0.003
+sectors ABAM0002 on ch 13,ABBA0001 on ch 13, cost =0.006
+sectors ABAN0001 on ch  9,ABAD0003 on ch  8, cost =0.003
+sectors ABAN0002 on ch 39,ABAI0002 on ch 39, cost =0.003
+sectors ABAN0002 on ch 39,ABAW0001 on ch 39, cost =0.002
+sectors ABAN0003 on ch 22,ABAD0002 on ch 23, cost =0.002
+sectors ABAN0003 on ch 22,ABAP0001 on ch 21, cost =0.003
+sectors ABAO0001 on ch  3,ABAC0001 on ch  4, cost =0.002
+sectors ABAO0002 on ch  5,ABAA0003 on ch  5, cost =0.002
+sectors ABAO0002 on ch  5,ABAC0001 on ch  4, cost =0.002
+sectors ABAO0002 on ch  5,ABAO0003 on ch  6, cost =0.004
+sectors ABAO0003 on ch  6,ABAA0003 on ch  5, cost =0.003
+sectors ABAO0003 on ch  6,ABAO0002 on ch  5, cost =0.003
+sectors ABAP0001 on ch 21,ABAE0001 on ch 21, cost =0.009
+sectors ABAP0001 on ch 21,ABAI0003 on ch 21, cost =0.004
+sectors ABAP0001 on ch 14,ABAL0001 on ch 15, cost =0.001
+sectors ABAP0001 on ch 21,ABAN0003 on ch 22, cost =0.002
+sectors ABAP0001 on ch 14,ABAR0001 on ch 13, cost =0.001
+sectors ABAP0001 on ch 35,ABAT0002 on ch 35, cost =0.006
+sectors ABAP0001 on ch 14,ABAZ0002 on ch 14, cost =0.002
+sectors ABAP0002 on ch 37,ABAD0002 on ch 37, cost =0.003
+sectors ABAP0002 on ch 10,ABAF0003 on ch 10, cost =0.002
+sectors ABAP0002 on ch  2,ABAL0003 on ch  3, cost =0.004
+sectors ABAP0002 on ch 10,ABAL0003 on ch 11, cost =0.004
+sectors ABAQ0003 on ch 17,ABAL0002 on ch 17, cost =0.029
+sectors ABAQ0003 on ch 24,ABAS0003 on ch 25, cost =0.004
+sectors ABAQ0003 on ch 17,ABAS0004 on ch 16, cost =0.001
+sectors ABAQ0003 on ch 24,ABBC0001 on ch 24, cost =0.022
+sectors ABAQ0004 on ch 26,ABAI0001 on ch 26, cost =0.004
+sectors ABAQ0004 on ch 26,ABAS0003 on ch 25, cost =0.002
+sectors ABAR0001 on ch 13,ABAA0002 on ch 13, cost =0.006
+sectors ABAR0001 on ch 23,ABAD0002 on ch 23, cost =0.008
+sectors ABAR0001 on ch 33,ABAF0002 on ch 33, cost =0.006
+sectors ABAR0001 on ch 33,ABAH0001 on ch 33, cost =0.012
+sectors ABAR0001 on ch 23,ABAI0003 on ch 23, cost =0.003
+sectors ABAR0001 on ch 13,ABAP0001 on ch 14, cost =0.003
+sectors ABAR0001 on ch 13,ABBA0001 on ch 13, cost =0.009
+sectors ABAR0001 on ch 23,ABBG0001 on ch 23, cost =0.002
+sectors ABAR0002 on ch  6,ABAQ0003 on ch  6, cost =0.006
+sectors ABAS0003 on ch 25,ABAE0001 on ch 25, cost =0.003
+sectors ABAS0003 on ch 19,ABAJ0001 on ch 19, cost =0.012
+sectors ABAS0003 on ch 25,ABAQ0003 on ch 24, cost =0.003
+sectors ABAS0003 on ch 32,ABBA0001 on ch 32, cost =0.010
+sectors ABAT0001 on ch  3,ABAG0001 on ch  4, cost =0.003
+sectors ABAT0002 on ch 35,ABAG0003 on ch 34, cost =0.002
+sectors ABAT0002 on ch 35,ABAP0001 on ch 35, cost =0.002
+sectors ABAV0002 on ch 40,ABAW0001 on ch 39, cost =0.002
+sectors ABAV0003 on ch  9,ABAC0003 on ch  9, cost =0.005
+sectors ABAW0001 on ch 39,ABAN0002 on ch 39, cost =0.002
+sectors ABAX0001 on ch 19,ABAE0001 on ch 18, cost =0.001
+sectors ABAX0001 on ch 19,ABAJ0001 on ch 19, cost =0.002
+sectors ABAX0002 on ch 38,ABAP0002 on ch 37, cost =0.001
+sectors ABAX0003 on ch 17,ABAC0003 on ch 17, cost =0.003
+sectors ABAX0003 on ch 17,ABAL0002 on ch 17, cost =0.008
+sectors ABAY0003 on ch 31,ABAH0001 on ch 31, cost =0.018
+sectors ABAY0003 on ch 31,ABBA0001 on ch 32, cost =0.002
+sectors ABAZ0001 on ch 28,ABAJ0002 on ch 28, cost =0.005
+sectors ABAZ0002 on ch 14,ABAP0001 on ch 14, cost =0.002
+sectors ABBA0001 on ch 13,ABAA0002 on ch 13, cost =0.006
+sectors ABBA0001 on ch 13,ABAR0001 on ch 13, cost =0.008
+sectors ABBA0001 on ch 32,ABAS0003 on ch 32, cost =0.002
+sectors ABBA0001 on ch 32,ABAY0003 on ch 31, cost =0.004
+sectors ABBA0002 on ch 26,ABAA0002 on ch 26, cost =0.016
+sectors ABBC0001 on ch 24,ABAQ0003 on ch 24, cost =0.006
+sectors ABBC0001 on ch 24,ABBG0001 on ch 23, cost =0.002
+sectors ABBC0002 on ch 35,ABAI0002 on ch 35, cost =0.014
+sectors ABBE0001 on ch 17,ABAQ0003 on ch 17, cost =0.006
+sectors ABBF0001 on ch  5,ABAG0001 on ch  4, cost =0.002
+sectors ABBF0001 on ch  5,ABAI0001 on ch  5, cost =0.004
+sectors ABBF0003 on ch 20,ABAB0001 on ch 20, cost =0.003
+sectors ABBG0001 on ch 23,ABBC0001 on ch 24, cost =0.004
+sectors ABBG0002 on ch 20,ABBF0003 on ch 20, cost =0.006
+  total cost =   1.329653    

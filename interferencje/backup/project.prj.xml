@@ -119,14 +119,7 @@
    <ColorMapEntry val="0.1248" r="246" g="82" b="129" symbol="SOLID"/>
    <ColorMapEntry val="0.0" r="246" g="70" b="137" symbol="SOLID"/>
   </ColorMap>
-  <ColorMap size="6">
-   <ColorMapEntry val="0.6" r="255" g="128" b="0" symbol="SOLID"/>
-   <ColorMapEntry val="0.5" r="255" g="183" b="111" symbol="SOLID"/>
-   <ColorMapEntry val="0.4" r="255" g="255" b="128" symbol="SOLID"/>
-   <ColorMapEntry val="0.3" r="128" g="255" b="128" symbol="SOLID"/>
-   <ColorMapEntry val="0.2" r="0" g="213" b="53" symbol="SOLID"/>
-   <ColorMapEntry val="0.1" r="3" g="156" b="106" symbol="SOLID"/>
-  </ColorMap>
+  <ColorMap size="0"/>
  </ColorMapVector>
  <ATAInfoVector size="1">
   <ATA owner="" owner_type="0" id="0" ata_type="-1" use_connected_CPEs="false" use_CPE_group="false" use_victim_CPEs="false" use_connected_mobiles="false" use_victim_sectors="false" use_sector_group="false" use_external="false" auto_calculate_targets="true" cpe_group="Master Group" sector_group="Master Group" cpe_threshold="0.0" sector_threshold="0.0">
@@ -174,10 +167,10 @@
  </LinkDetailsOptions>
  <PROJECT_PANE_TREE size="14">
   <TreeNode NodeType="RFSystems" NodeText="RF Systems" state="98"/>
-  <TreeNode NodeType="Site" NodeText="Transmitter/Base/Hub/Router Sites" state="96"/>
+  <TreeNode NodeType="Site" NodeText="Transmitter/Base/Hub/Router Sites" state="0"/>
   <TreeNode NodeType="Link" NodeText="Link Systems" state="0"/>
   <TreeNode NodeType="Views" NodeText="Map Views" state="96"/>
-  <TreeNode NodeType="MapView" NodeText="initial view" state="96"/>
+  <TreeNode NodeType="MapView" NodeText="c/i_transparent" state="96"/>
   <TreeNode NodeType="MapView" NodeText="c/i" state="96"/>
   <TreeNode NodeType="MapViewLayer" NodeText="Map Layers" state="96"/>
   <TreeNode NodeType="MapViewLayer" NodeText="Map Layers" state="96"/>
